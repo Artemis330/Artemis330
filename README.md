@@ -2,7 +2,7 @@
   <a href="https://about-jeff.web.app/"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=24&duration=3000&pause=500&color=8000FF&width=435&lines=Passionate+Full+Stack+Developer;Highly+Secure+Web3+Developer;5+Years+of+Hands-on+Experience"></a>
 </p>
 <p align="center">
-  <img align="center" src="./pics/cat.gif"/>
+  <a href="https://about-jeff.web.app/"><img align="center" src="./pics/cat.gif"/></a>
 </p>
 <h1 align="center">
 </h1>
